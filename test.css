@@ -1,0 +1,110 @@
+body{
+	background-image: url('retina_wood.png');
+}
+
+p{
+	font-family:arial;
+	font-size:12px;
+}
+
+h3{
+background-color: purple;
+	
+	
+}
+
+li{
+
+	
+}
+
+a{
+	font-weight:bold;
+}
+
+#Header{
+	border: solid 8px black;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: purple;
+}
+
+#Header h1{
+	font-size:60px;
+	font-family: "passion one";
+	color: #FFBC00;
+	font-weight:bold;
+}
+
+#LeftNav{
+	border: solid 8px black;
+	width: 400px;
+	margin-bottom: 10px; 
+	float: left;
+	text-align: center;
+	padding-bottom: 8px
+	background-color: purple;
+}
+
+#LeftNav img{
+
+}
+
+#LeftNav ul{
+	list-style-type: none;
+	padding-left: 0px;
+	background-color: purple;
+	
+}
+
+#LeftNav h3{
+	color: #FFBC00;
+	font-family: "passion one";
+	font-weight: bold;
+
+}
+
+#Content{
+	border: solid 8px black;
+	width: 700px;
+	text-align: center;
+	padding: 15px;
+	background-color: purple;
+	color: white;
+	float: left;
+
+}
+
+#content img {
+	 
+}
+
+#Content span {
+	color: #FFBC00;
+	font-family: "passion one";
+	font-weight: bold;
+}
+
+#Footer {
+	text-align:center;
+	background-color: purple;
+	clear: both; 
+}
+
+#Footer h3 {
+	color: #FFBC00;
+	font-family: "passion one";
+	font-weight: bold;
+}
+
+#Footer p {
+ color:white;
+}
+
+#Footer ul{
+	list-style-type: none;
+	padding-left: 0px;
+}
