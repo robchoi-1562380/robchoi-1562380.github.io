@@ -1,0 +1,29 @@
+body{
+	background-color: gray;
+}
+
+
+
+#Header{
+	
+	width: 500px;
+	text-align: center;
+	float: right;
+
+}
+
+
+
+
+
+#Content{
+    float: right;
+	border-radius: 25px;
+	width: 700px;
+	text-align: center;
+	padding: 15px;
+	background-color: purple;
+	
+
+}
+
